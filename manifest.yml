@@ -1,0 +1,6 @@
+---
+applications:
+- name: http-proxy
+  path: target/cf-http-proxy-1.0-SNAPSHOT.jar
+
+
